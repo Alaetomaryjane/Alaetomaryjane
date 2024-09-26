@@ -9,8 +9,7 @@
 📫 Reach out to me at alaetomaryjane824@gmail.com or connect on LinkedIn https://www.linkedin.com/in/alaeto-maryjane-3b16a02b9/).
 
 - Proficient in  Python, SQL, and Power BI.
-  
-- Pronouns: She/her
+
 
 
 
