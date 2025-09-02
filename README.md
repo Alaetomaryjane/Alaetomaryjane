@@ -6,7 +6,7 @@
 
 - Let's collaborate and innovate together! Connect with me to explore the depths of Data Science.
 
-- Reach out to me at maryjanekar@gmail.com or connect on LinkedIn https://www.linkedin.com/in/alaeto-maryjane-3b16a02b9/).
+- Reach out to me at maryjanekar@gmail.com or connect on LinkedIn https://www.linkedin.com/in/alaeto-maryjane-3b16a02b9/.
 
 - Proficient in  Python, SQL, and Power BI.
 
